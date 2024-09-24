@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://aksudogukan.github.io/al-folio/sitemap.xml
+Sitemap: https://aksudogukan.github.io/sitemap.xml
