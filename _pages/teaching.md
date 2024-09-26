@@ -7,12 +7,16 @@ nav: true
 nav_order: 6
 ---
 
+Graduate Courses:
 <ul>
   <li>Intrusion Detection and Prevention Systems</li>
+</ul>
+Undergraduate Courses:
+<ul>
   <li>Introduction to Algorithms (C)</li>
   <li>Introduction to Programming (C++)</li>
-  <li>CSE5001-Web Programming (C#)</li>
-  <li>CSE5031 Operating Systems</li>
-  <li>CSE4023-Computer Organization</li>
-  <li>CSE0469-Special Topics in Software Engineering (JAVA)</li>
+  <li>Web Programming (C#)</li>
+  <li>Operating Systems</li>
+  <li>Computer Organization</li>
+  <li>Special Topics in Software Engineering (JAVA)</li>
 </ul>
