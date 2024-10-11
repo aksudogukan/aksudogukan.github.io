@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-I have joined TUBITAK BILGEM (The Scientific and Technological Research Council of Turkey, Informatics and Information Security Research Center) as an Principal Applied Scientist.
+I have joined TUBITAK BILGEM (The Scientific and Technological Research Council of Turkey, Informatics and Information Security Research Center) as a Principal Applied Scientist.
 
 <!---
  :sparkles: :smile:
