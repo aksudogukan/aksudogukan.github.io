@@ -2,7 +2,7 @@
 layout: page
 permalink: /certificates/
 title: Certificates
-description: A list of my professional and educational certificates is listed.
+description: The most recent top professional and educational certificates are listed.
 nav: true
 nav_order: 4
 ---

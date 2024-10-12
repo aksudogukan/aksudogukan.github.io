@@ -2,9 +2,9 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: A list of the lectures and lab sessions that I gave is listed.
+description: The lectures and lab sessions are listed.
 nav: true
-nav_order: 2
+nav_order: 3
 
 ---
 

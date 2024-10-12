@@ -2,7 +2,7 @@
 layout: page
 permalink: /projects/
 title: Projects
-description: A list of my professional projects.
+description: The most recent top professional projects are listed.
 nav: true
 nav_order: 2
 ---
@@ -10,7 +10,7 @@ nav_order: 2
 - [Diversified and Cross-Domain Click Through Rate (CTR) Prediction](#)
 - [Huawei Ads Project (CTR and CVR Prediction)](#)
 - [Electric Autonomous Vehicle Development Projects](#)
-- [Internet of Things Security and Evaluation Center](#)
+- [Establishment of Internet of Things Security and Evaluation Center Project](#)
 - [Software Development to Detect BRCA1/2 Negative](#)
 - [Establishment of Istanbul Digital Forensics Laboratory Project](#)
 - [Software Design for the Protection of Personal Privacy in Big Data](#)
