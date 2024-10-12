@@ -4,12 +4,9 @@ permalink: /certificates/
 title: Certificates
 description: A list of my professional and educational certificates.
 nav: true
-nav_order: 6
+nav_order: 3
 ---
 
-## Certificates
-
-A list of my certifications is given in this page:
 
 <table style="width: 100%; border-collapse: collapse;">
   <tr>

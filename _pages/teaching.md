@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 description: The list of the lectures and lab sessions that I gave is listed in the below.
 nav: true
-nav_order: 6
+nav_order: 2
 
 ---
 
