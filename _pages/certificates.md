@@ -16,7 +16,7 @@ nav_order: 4
   </tr>
   <tr>
     <td>Generative AI for Software Development Specialization</td>
-    <td>DeepLearning.AI</td>
+    <td>Coursera</td>
     <td>Oct 2024</td>
     <td style="text-align: right;"><a href="https://www.coursera.org/account/accomplishments/specialization/ZEGUDMHSWGNN" target="_blank">Link</a></td>
   </tr>
@@ -28,13 +28,13 @@ nav_order: 4
   </tr>
   <tr>
     <td>Team Software Engineering with AI</td>
-    <td>DeepLearning.AI</td>
+    <td>Coursera</td>
     <td>Oct 2024</td>
     <td style="text-align: right;"><a href="https://www.coursera.org/account/accomplishments/verify/5IIEQYJ5OBKF" target="_blank">Link</a></td>
   </tr>
   <tr>
     <td>Introduction to Generative AI for Software Development</td>
-    <td>DeepLearning.AI</td>
+    <td>Coursera</td>
     <td>Sep 2024</td>
     <td style="text-align: right;"><a href="https://www.coursera.org/account/accomplishments/verify/HO5VGO7WO314" target="_blank">Link</a></td>
   </tr>
