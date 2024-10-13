@@ -63,16 +63,16 @@ nav_order: 2
     <td>Internal</td>
   </tr>
   <tr>
-    <td>Gaze Estimation and Talking with Eye</td>
-    <td>Aksu Informatics</td>
-    <td>'15–'18</td>
-    <td>TUBITAK</td>
-  </tr>
-  <tr>
     <td>Data Transfer and Management Module</td>
     <td>Aksu Informatics</td>
     <td>'16</td>
     <td>Internal</td>
+  </tr>
+  <tr>
+    <td>Gaze Estimation and Talking with Eye</td>
+    <td>Aksu Informatics</td>
+    <td>'15–'18</td>
+    <td>TUBITAK</td>
   </tr>
   <tr>
     <td>EyeTalk</td>
