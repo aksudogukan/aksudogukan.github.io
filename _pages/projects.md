@@ -15,8 +15,8 @@ nav_order: 2
     <th style="text-align: left;">Fund</th>
   </tr>
   <tr>
-    <td>Diversified and Cross-Domain Click Through Rate (CTR) Prediction</td>
-    <td>Huawei & METU</td>
+    <td>Diversified and Cross-Domain Click-Through Rate (CTR) Prediction: A University-Industry Collaboration between Huawei and METU</td>
+    <td>Huawei</td>
     <td>'22–'24</td>
     <td>TUBITAK</td>
   </tr>
@@ -28,37 +28,37 @@ nav_order: 2
   </tr>
   <tr>
     <td>Electric Autonomous Vehicle Development Projects</td>
-    <td>Istanbul University-Cerrahpasa</td>
+    <td>IUC</td>
     <td>'18–'22</td>
     <td>Internal</td>
   </tr>
   <tr>
     <td>Establishment of Internet of Things Security and Evaluation Center Project</td>
-    <td>Istanbul University-Cerrahpasa</td>
+    <td>IUC</td>
     <td>'18–'21</td>
-    <td>Istanbul Development Agency</td>
+    <td>ISTKA</td>
   </tr>
   <tr>
     <td>BRCA1/2 Negative Detection</td>
-    <td>Istanbul University-Cerrahpasa</td>
+    <td>IUC</td>
     <td>'19–'20</td>
     <td>Internal</td>
   </tr>
   <tr>
     <td>Establishment of Istanbul Digital Forensics Laboratory Project</td>
-    <td>Istanbul University-Cerrahpasa</td>
+    <td>IUC</td>
     <td>'18–'20</td>
-    <td>Istanbul Development Agency</td>
+    <td>ISTKA</td>
   </tr>
   <tr>
-    <td>Software Design for the Protection of Personal Privacy in Big Data</td>
-    <td>Istanbul University-Cerrahpasa</td>
+    <td>Personal Privacy Protection in Big Data: A University-Industry Collaboration between IUC and Turkcell</td>
+    <td>IUC</td>
     <td>'18–'20</td>
-    <td>TUBITAK & Turkcell</td>
+    <td>TUBITAK</td>
   </tr>
   <tr>
     <td>Hydrogen Production Modeling by Supervised Machine Learning Algorithms</td>
-    <td>Istanbul University-Cerrahpasa</td>
+    <td>IUC</td>
     <td>'18–'19</td>
     <td>Internal</td>
   </tr>
@@ -66,7 +66,7 @@ nav_order: 2
     <td>Gaze Estimation and Talking with Eye</td>
     <td>Aksu Informatics</td>
     <td>'15–'18</td>
-    <td>Ministry of Industry and Technology of Turkey</td>
+    <td>TUBITAK</td>
   </tr>
   <tr>
     <td>Data Transfer and Management Module</td>
