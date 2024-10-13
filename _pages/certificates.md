@@ -7,7 +7,6 @@ nav: true
 nav_order: 4
 ---
 
-
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <th style="text-align: left;">Name</th>
