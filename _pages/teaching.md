@@ -5,7 +5,6 @@ title: Teaching
 description: The lectures and lab sessions are listed.
 nav: true
 nav_order: 3
-
 ---
 
 <table style="width: 100%; border-collapse: collapse;">
