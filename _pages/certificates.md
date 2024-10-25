@@ -64,7 +64,7 @@ nav_order: 4
   </tr>
   <tr>
     <td>TensorFlow Developer Certificate</td>
-    <td>TensorFlow</td>
+    <td>Google</td>
     <td>Jul 2023</td>
     <td style="text-align: right;"><a href="https://www.credential.net/10851b80-60a6-4fc8-b807-43cb25b378d1#gs.gla8y6" target="_blank">Link</a></td>
   </tr>
