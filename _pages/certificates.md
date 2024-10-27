@@ -9,10 +9,10 @@ nav_order: 4
 
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
-    <th style="text-align: left;">Name</th>
-    <th style="text-align: left;">Issuing organization</th>
-    <th style="text-align: left;">Issue date</th>
-    <th style="text-align: right;">Credential URL</th>
+    <th style="text-align: left;">Title</th>
+    <th style="text-align: left;">Organization</th>
+    <th style="text-align: left;">Date</th>
+    <th style="text-align: right;">URL</th>
   </tr>
   <tr>
     <td>Generative AI for Software Development Specialization</td>
