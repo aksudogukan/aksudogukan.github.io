@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
- I’m starting a new position as Research & Teaching Assistant at the Department of Computer Engineering.
+I’m starting a new position as Research & Teaching Assistant at the Department of Computer Engineering.

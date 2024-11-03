@@ -15,6 +15,12 @@ nav_order: 4
     <th style="text-align: right;">URL</th>
   </tr>
   <tr>
+    <td>Federated Fine-tuning of LLMs with Private Data</td>
+    <td>DeepLearning.AI</td>
+    <td>Nov 2024</td>
+    <td style="text-align: right;"><a href="https://learn.deeplearning.ai/accomplishments/528db559-d7f0-4615-93ec-b3e5a19200fd" target="_blank">Link</a></td>
+  </tr>
+  <tr>
     <td>Generative AI for Software Development Specialization</td>
     <td>Coursera</td>
     <td>Oct 2024</td>
