@@ -45,16 +45,22 @@ nav_order: 4
     <td style="text-align: right;"><a href="https://www.coursera.org/account/accomplishments/verify/HO5VGO7WO314" target="_blank">Link</a></td>
   </tr>
   <tr>
-    <td>Building Applications with Vector Databases</td>
-    <td>DeepLearning.AI</td>
-    <td>Oct 2024</td>
-    <td style="text-align: right;"><a href="https://learn.deeplearning.ai/accomplishments/6078c7fb-bbdd-4950-8a1a-b51996ba2a7f" target="_blank">Link</a></td>
-  </tr>
-  <tr>
     <td>Leadership: Practical Leadership Skills</td>
     <td>Udemy</td>
     <td>Oct 2024</td>
     <td style="text-align: right;"><a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-3a6d94a3-b9c3-4d97-8226-90d2c1b91131.pdf" target="_blank">Link</a></td>
+  </tr>
+  <tr>
+    <td>Introducing Multimodal Llama 3.2</td>
+    <td>DeepLearning.AI</td>
+    <td>Oct 2024</td>
+    <td style="text-align: right;"><a href="https://learn.deeplearning.ai/accomplishments/f89d096f-1a17-421c-b743-86e87c658c0d?usp=sharing" target="_blank">Link</a></td>
+  </tr>
+  <tr>
+    <td>Building Applications with Vector Databases</td>
+    <td>DeepLearning.AI</td>
+    <td>Oct 2024</td>
+    <td style="text-align: right;"><a href="https://learn.deeplearning.ai/accomplishments/6078c7fb-bbdd-4950-8a1a-b51996ba2a7f" target="_blank">Link</a></td>
   </tr>
   <tr>
     <td>Multimodal RAG: Chat with Videos</td>
