@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have joined Assoc. Prof. Ihsen Alouani's team as a Research Fellow at the Centre for Secure Information Technologies (CSIT) at Queen's University Belfast.
+I have joined Assoc. Prof. Ihsen Alouani's team as a Research Fellow at the Centre for Secure Information Technologies (CSIT) at Queen's University Belfast (QUB).
