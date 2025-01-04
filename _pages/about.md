@@ -9,10 +9,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p><font size="2"><b> dogukanaksu.research[at]gmail.com </b></font></p>
-    <p>CSIT</p>
-    <p>Queens Rd</p>
-    <p>Belfast, BT3 9DT</p>
+    <p><font size="2"><b>dogukanaksu.research[at]gmail.com</b></font></p>
+    <p><font size="2"><b>CSIT</b></font></p>
+    <p><font size="2"><b>Queens Rd</b></font></p>
+    <p><font size="2"><b>Belfast, BT3 9DT</b></font></p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
