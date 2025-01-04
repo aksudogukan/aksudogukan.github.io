@@ -12,6 +12,7 @@ profile:
     <p><font size="2"><b>dogukanaksu.research[at]gmail.com</b></font></p>
     <p><font size="2"><b></b></font></p>
     <p><font size="2"><b>CSIT, Queens Rd</b></font></p>
+    <p><font size="2"><b></b></font></p>
     <p><font size="2"><b>Belfast, United Kingdom</b></font></p>
     <p><font size="2"><b>BT3 9DT</b></font></p>
 
