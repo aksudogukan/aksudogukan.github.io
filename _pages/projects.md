@@ -15,6 +15,12 @@ nav_order: 2
     <th style="text-align: left;">Fund</th>
   </tr>
   <tr>
+    <td>Deepfake Detection and Generation</td>
+    <td>TUBITAK BILGEM</td>
+    <td>'24</td>
+    <td>SSB</td>
+  </tr>
+  <tr>
     <td>Diversified and Cross-Domain Click-Through Rate (CTR) Prediction: A University-Industry Collaboration between Huawei and METU</td>
     <td>Huawei</td>
     <td>'22–'24</td>
