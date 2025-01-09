@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Although I am still a senior Computer Science student, I founded a start-up company, Aksu Informatics, with a Techno-Initiative Capital Support program.
+Although I am a senior Computer Engineering student, I founded a start-up company, Aksu Informatics, with a Techno-Initiative Capital Support program.
