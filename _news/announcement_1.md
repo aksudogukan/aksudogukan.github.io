@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have successfully defended my Ph.D. thesis “Development of Anomaly Based Intrusion Detection System by using Machine Learning Techniques for Autonomous Vehicles”.
+I have successfully defended my Ph.D. dissertation titled “Development of Anomaly Based Intrusion Detection System by using Machine Learning Techniques for Autonomous Vehicles”.

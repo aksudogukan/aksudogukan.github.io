@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have joined Huawei as an Senior AI Research Engineer.
+I have joined Huawei as a Senior AI Research Engineer.
