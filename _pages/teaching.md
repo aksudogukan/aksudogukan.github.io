@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: The lectures and lab sessions are listed.
+description: The lectures and lab sessions are listed below.
 nav: true
 nav_order: 3
 ---
