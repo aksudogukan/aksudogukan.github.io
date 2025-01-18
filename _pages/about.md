@@ -9,9 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p><font size="2"><b>d.aksu[at]qub.ac.uk</b></font></p>
-    <p><font size="2"><b>School of Electronics, Electrical Engineering and Computer Science</b></font></p>
-    
+    <p><font size="2"><b>d.aksu[at]qub.ac.uk</b></font></p>    
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
