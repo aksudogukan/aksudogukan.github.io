@@ -2,7 +2,7 @@
 layout: page
 permalink: /projects/
 title: Projects
-description: The most recent top professional projects are listed below.
+description:
 nav: true
 nav_order: 2
 ---
