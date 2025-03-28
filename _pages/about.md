@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am currently a Research Fellow at the <a href="https://www.qub.ac.uk/research-centres/csit/">Centre for Secure Information Technologies (CSIT)</a> at <a href="https://www.qub.ac.uk/">Queen’s University Belfast (QUB)</a>, where I have the privilege of collaborating with <a href="https://pure.qub.ac.uk/en/persons/ihsen-alouani">Assoc. Prof. Ihsen Alouani</a> and <a href="https://pure.qub.ac.uk/en/persons/jesus-martinez-del-rincon">Prof. Jesus Martinez del Rincon</a> on cutting-edge research projects in AI and Cybersecurity. I hold a B.Sc., M.Sc. and Ph.D. in Computer Engineering, specializing in machine learning and cybersecurity.
+I am currently a Research Fellow at the <a href="https://www.qub.ac.uk/research-centres/csit/">Centre for Secure Information Technologies (CSIT)</a> at <a href="https://www.qub.ac.uk/">Queen’s University Belfast (QUB)</a>. I hold a B.Sc., M.Sc. and Ph.D. in Computer Engineering, specializing in machine learning and cybersecurity.
 
 Previously, I worked on computer vision and generative AI projects at the <a href="https://tubitak.gov.tr/en">Scientific and Technological Research Council of Turkiye (TUBITAK)</a>, <a href="https://bilgem.tubitak.gov.tr/en/">Informatics and Information Security Research Center (BILGEM)</a> as a Principal Applied Scientist.
 
