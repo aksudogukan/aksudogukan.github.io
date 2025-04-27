@@ -7,7 +7,11 @@ nav: true
 nav_order: 4
 ---
 
-### **Artificial Intelligence & Machine Learning**  
+### **Technical**  
+- **AI Agents in LangGraph** – DeepLearning.AI, **Dec 2024**  
+  [View Certificate](https://learn.deeplearning.ai/accomplishments/f9a3ee21-db06-4f28-bb37-b9515a51721e)  
+- **Intro to Federated Learning** – DeepLearning.AI, **Dec 2024**  
+  [View Certificate](https://learn.deeplearning.ai/accomplishments/9832e678-def7-4541-ab4d-045651421aed)  
 - **Federated Fine-tuning of LLMs with Private Data** – DeepLearning.AI, **Nov 2024**  
   [View Certificate](https://learn.deeplearning.ai/accomplishments/528db559-d7f0-4615-93ec-b3e5a19200fd)  
 - **Generative AI for Software Development Specialization** – Coursera, **Oct 2024**  
@@ -28,7 +32,7 @@ nav_order: 4
   [View Certificate](https://learn.deeplearning.ai/accomplishments/4c5c4b19-7206-4b5b-9ae1-a44523718066?usp=sharing)  
 - **TensorFlow Developer Certificate** – Google, **Jul 2023**  
   [View Certificate](https://www.credential.net/10851b80-60a6-4fc8-b807-43cb25b378d1#gs.gla8y6)  
-  
-### **Leadership & Professional Development**  
+
+### **Leadership**  
 - **Leadership: Practical Leadership Skills** – Udemy, **Oct 2024**  
   [View Certificate](https://udemy-certificate.s3.amazonaws.com/pdf/UC-3a6d94a3-b9c3-4d97-8226-90d2c1b91131.pdf)  
