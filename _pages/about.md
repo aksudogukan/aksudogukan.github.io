@@ -16,9 +16,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am currently a Research Fellow at the <a href="https://www.qub.ac.uk/research-centres/csit/">Centre for Secure Information Technologies (CSIT)</a> at <a href="https://www.qub.ac.uk/">Queen’s University Belfast (QUB)</a>. I hold a B.Sc., M.Sc. and Ph.D. in Computer Engineering, specializing in AI and AI Security.
+I am currently a Research Fellow at the <a href="https://www.qub.ac.uk/research-centres/csit/">Centre for Secure Information Technologies (CSIT)</a> at <a href="https://www.qub.ac.uk/">Queen’s University Belfast (QUB)</a>. I hold a B.Sc., M.Sc. and Ph.D. in Computer Engineering, specializing in AI and Cyber Security.
 
-Previously, I worked on Generative AI projects at the <a href="https://tubitak.gov.tr/en">Scientific and Technological Research Council of Turkiye (TUBITAK)</a>, <a href="https://bilgem.tubitak.gov.tr/en/">Informatics and Information Security Research Center (BILGEM)</a> as a Principal Applied Scientist.
+Previously, I worked on Generative AI projects at the <a href="https://tubitak.gov.tr/en">Scientific and Technological Research Council of Turkiye (TUBITAK)</a>, <a href="https://bilgem.tubitak.gov.tr/en/">Informatics and Information Security Research Center (BILGEM)</a> as a Principal AI Research Engineer.
 
 Before that, I was an AI Tech Lead and Senior AI Research Engineer at <a href="https://www.huawei.com/en/">Huawei</a>, leading Click Through Rate (CTR) prediction tasks for large-scale advertising projects. During this time, I was honored with the Sparkling Star and Consumer Cloud Service President awards. Additionally, I spearheaded a TUBITAK University-Industry collaboration project between <a href="https://www.huawei.com/en/">Huawei</a> and <a href="https://www.metu.edu.tr/">Middle East Technical University (METU)</a>, where I had the privilege of working alongside esteemed professors <a href="https://user.ceng.metu.edu.tr/~toroslu/">Prof. Ismail Hakki Toroslu</a>, <a href="https://user.ceng.metu.edu.tr/~karagoz/">Prof. Pinar Karagoz</a>, and <a href="https://user.ceng.metu.edu.tr/~altingovde/">Prof. Ismail Sengor Altingovde</a>.
 
