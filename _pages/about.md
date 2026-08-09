@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 
 I am an AI Engineering Lead at <a href="https://www.weareams.com/">AMS</a>, where I lead the architecture and delivery of enterprise agentic AI systems. My work focuses on turning rapidly evolving AI capabilities into reliable, scalable, and practical solutions for real-world business needs.
 
-I work across the AI engineering lifecycle, from LLM applications, RAG and GraphRAG to agent architecture, tool use, MCP, orchestration, evaluation, observability, governance, security, and deployment. I am particularly interested in the engineering systems around AI—not just the models themselves—and in making AI systems measurable, observable, secure, and reliable in production.
+I work across the AI engineering lifecycle, from LLM applications, RAG and GraphRAG to agent architecture, tool use, MCP, orchestration, evaluation, observability, governance, security, and deployment. I am particularly interested in the engineering systems around AI, not just the models themselves, and in making AI systems measurable, observable, secure, and reliable in production.
 
 A particular area of focus for me is what happens after an AI system is built: How do we know whether an agent is actually working? How do we understand and diagnose its failures? How do we evaluate and observe it in production? How do we incorporate feedback and continuously improve it while maintaining appropriate security and governance?
 
