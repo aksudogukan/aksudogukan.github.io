@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have joined the Centre for Secure Information Technologies (CSIT) at Queen's University Belfast (QUB) as a Research Fellow.
+I have joined the Centre for Secure Information Technologies (CSIT) at Queen's University Belfast (QUB) as a Postdoctoral Research Fellow.

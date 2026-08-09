@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p><font size="2"><b>dogukanaksu.research[at]gmail.com</b></font></p>
+    <p><font size="2"><b>d.aksu[at]qub.ac.uk</b></font></p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -21,17 +21,6 @@ I am currently an AI Engineering Lead at <a href="https://www.weareams.com/">AMS
 I work across the AI engineering lifecycle, from LLM applications, RAG and GraphRAG to agent architecture, tool use, MCP, orchestration, evaluation, observability, governance, security, and deployment. I am particularly interested in the engineering systems around AI—not just the models themselves—and in making AI systems measurable, observable, secure, and reliable in production.
 
 A key area of focus for me is what happens after an AI system is built: How do we know whether an agent is actually working? How do we understand and diagnose its failures? How do we evaluate and observe it in production? How do we incorporate feedback and continuously improve it while maintaining appropriate security and governance?
-
-## Current Focus
-
-- **Agentic AI & AI Agents**
-- **AI Engineering & Architecture**
-- **LLM Applications, RAG & GraphRAG**
-- **Tool Use, MCP & Agent Orchestration**
-- **Agent Evaluation, Measurement & Observability**
-- **AI Governance, Security & Responsible AI**
-- **Feedback Loops & Continuous Improvement**
-- **Enterprise AI & Intelligent Automation**
 
 Before joining AMS, I was a Postdoctoral Research Fellow at the <a href="https://www.qub.ac.uk/research-centres/csit/">Centre for Secure Information Technologies (CSIT)</a>, <a href="https://www.qub.ac.uk/">Queen’s University Belfast (QUB)</a>, where I had the opportunity to work closely with <a href="https://pure.qub.ac.uk/en/persons/ihsen-alouani/">Assoc. Prof. Ihsen Alouani</a> and <a href="https://pure.qub.ac.uk/en/persons/jesus-martinez-del-rincon/"> Prof. Jesus Martinez del Rincon</a>. My research focused on Federated Learning, AI security, and privacy-preserving machine learning, particularly gradient leakage and gradient inversion attacks. I worked on privacy-preserving Federated Learning pipelines and evaluated attacks including DLG, iDLG, and GRNN.
 
