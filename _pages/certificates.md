@@ -8,6 +8,10 @@ nav_order: 4
 ---
 
 ### **Technical**  
+- **Quickstart: LangSmith Essentials** – LangChain, **Feb 2026**  
+  [View Certificate](https://academy.langchain.com/certificates/qtbn676m1n) 
+- **Project: Deep Research with LangGraph** – LangChain, **Feb 2026**  
+  [View Certificate](https://academy.langchain.com/certificates/na66jes7ks)
 - **AI Agents in LangGraph** – DeepLearning.AI, **Dec 2024**  
   [View Certificate](https://learn.deeplearning.ai/accomplishments/f9a3ee21-db06-4f28-bb37-b9515a51721e)  
 - **Intro to Federated Learning** – DeepLearning.AI, **Dec 2024**  

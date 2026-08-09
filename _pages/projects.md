@@ -7,6 +7,7 @@ nav: true
 nav_order: 2
 ---
 
+- **End to End Agentic AI Applications**
 - **Deepfake Detection and Generation**
 - **On-device Wake Word Detection & Voice Assistant (Integrated with ChatGPT)**
 - **ID Verification and KYC Checks (Large Vision Models)**
